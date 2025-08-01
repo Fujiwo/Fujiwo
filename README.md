@@ -8,6 +8,7 @@ Fujio Kojima: a software developer in Japan
 * [Web Site (Japanese)](http://www.shos.info "Web Site (Japanese)")
 * [Twitter](https://twitter.com/Fujiwo)
 * [Instagram](https://www.instagram.com/fujiwo/)
+* [SlideShare](https://www.slideshare.net/Fujiwo/)
 
 <!---
 Fujiwo/Fujiwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
