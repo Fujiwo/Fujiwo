@@ -6,7 +6,7 @@ Fujio Kojima: a software developer in Japan
 * [MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/21482 "MVP Profile")
 * [Blog (Japanese)](http://wp.shos.info "Blog (Japanese)")
 * [Web Site (Japanese)](http://www.shos.info "Web Site (Japanese)")
-* [Twitter](https://twitter.com/Fujiwo)
+* [X (Twitter)](https://twitter.com/Fujiwo)
 * [Instagram](https://www.instagram.com/fujiwo/)
 * [SlideShare](https://www.slideshare.net/Fujiwo/)
 
